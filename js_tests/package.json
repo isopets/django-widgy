@@ -9,7 +9,7 @@
   "dependencies": {
     "jsdom": "~1.0.0",
     "requirejs": "~2.1.4",
-    "chai": "~1.4.2",
+    "chai": "~1.10.0",
     "sinon": "~1.7.1"
   },
   "devDependencies": {

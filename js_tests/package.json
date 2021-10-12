@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "jsdom": "~1.0.0",
-    "requirejs": "~2.1.4",
+    "requirejs": "~2.3.6",
     "chai": "~1.4.2",
     "sinon": "~1.7.1"
   },

@@ -1,4 +1,4 @@
-Django>=1.11
+Django>=2.2.27
 Werkzeug
 django-debug-toolbar>=1.0.0
 django-extensions
@@ -9,3 +9,7 @@ Mezzanine>=3.1.10
 mock==1.0.1
 # not ours, but really mezzanine's
 django-contrib-comments
+filebrowser-safe>=1.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=9.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlparse>=0.4.2 # not directly required, pinned by Snyk to avoid a vulnerability

@@ -1,4 +1,4 @@
-Django>=1.11
+Django>=4.2.16
 Werkzeug
 django-debug-toolbar>=1.0.0
 django-extensions

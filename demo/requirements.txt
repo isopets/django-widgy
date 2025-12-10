@@ -9,3 +9,5 @@ Mezzanine>=3.1.10
 mock==1.0.1
 # not ours, but really mezzanine's
 django-contrib-comments
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
